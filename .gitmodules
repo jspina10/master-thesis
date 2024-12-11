@@ -1,0 +1,12 @@
+[submodule "data_transfer"]
+	path = data_transfer
+	url = https://github.com/jspina10/data_transfer.git
+[submodule "force"]
+	path = force
+	url = https://github.com/jspina10/force.git
+[submodule "my_suite"]
+	path = my_suite
+	url = https://github.com/jspina10/my_suite.git
+[submodule "depthai_hand_tracker"]
+	path = depthai_hand_tracker
+	url = https://github.com/jspina10/depthai_hand_tracker.git
